@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue;
+  }
+img {
+    height: 500px;
+    width: 50%;
+    background-color: powderblue;
+  }
+  nav{
+    border: 2px solid darkblue;
+    background-color: aqua;
+  }
+  h1{
+  text-align: center;
+  }
